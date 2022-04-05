@@ -1,0 +1,13 @@
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.exe
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.deps.json
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.runtimeconfig.json
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.runtimeconfig.dev.json
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.dll
+C:\Balta_C#\ConversaoMaiuscula\bin\Debug\netcoreapp3.1\ConversaoMaiuscula.pdb
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.csprojAssemblyReference.cache
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.AssemblyInfoInputs.cache
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.AssemblyInfo.cs
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.csproj.CoreCompileInputs.cache
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.dll
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.pdb
+C:\Balta_C#\ConversaoMaiuscula\obj\Debug\netcoreapp3.1\ConversaoMaiuscula.genruntimeconfig.cache
